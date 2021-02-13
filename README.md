@@ -1,7 +1,6 @@
 ### About me
 
-Hi I'm Mark, designer, SEO guy and full stack developer. I'm passionate and excited to keep learning about different aspects of web development. 
-
+Hi my name is Mark. Designer, SEO guy and full stack developer living in Los Angeles. What keeps me passionate about web technology is that I get to use all different types of skills involved in building websites.  
 
 ### Tech Stack
 
