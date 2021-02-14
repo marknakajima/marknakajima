@@ -12,6 +12,6 @@ Hi my name is Mark. Designer, SEO guy and full stack developer living in Los Ang
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 
-## Tools
+### Tools
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-000?&logo=Visual-Studio-Code)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000?&logo=Adobe-Photoshop)
