@@ -1,6 +1,6 @@
 ### About me
 
-Hi my name is Mark. Designer, SEO guy and full stack developer living in Los Angeles. 
+Hi my name is Mark. Designer, Full Stack Developer and SEO guru living in Los Angeles. Being creative, writing code and applying marketing tactics in web development is my passion.
 
 ### Tech Stack
 
